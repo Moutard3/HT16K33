@@ -62,6 +62,16 @@ static const uint8_t charmap[] = {  //  TODO PROGMEM = slower?
   0x40,   //  minus
   0x61,   //  TOP_C
   0x63,   //  degree °
+  0x6D,
+  0x78,
+  0x50,
+  0x5C,
+  0x54,
+  0x73,   //P
+  0x38,   //L
+  0x6E,   //Y
+  0x3D,   //G
+  0x76,   //H
 };
 
 

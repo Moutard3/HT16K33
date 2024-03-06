@@ -37,6 +37,16 @@
 #define HT16K33_MINUS            17
 #define HT16K33_TOP_C            18     //  c
 #define HT16K33_DEGREE           19     //  °
+#define HT16K33_S                20
+#define HT16K33_T                21 
+#define HT16K33_R                22
+#define HT16K33_O                23
+#define HT16K33_N                24
+#define HT16K33_P                25
+#define HT16K33_L                26
+#define HT16K33_Y                27
+#define HT16K33_G                28
+#define HT16K33_H                29
 #define HT16K33_NONE             99
 
 
